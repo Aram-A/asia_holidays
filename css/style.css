@@ -1,3 +1,7 @@
+ body {
+	 font-family: Tahoma, Arial, sans-serif;
+ }
+
 .wrapper, .header {
 	margin: 0 auto;
 }	
@@ -11,7 +15,7 @@
 }
 
 .background {
-	font-family: Tahoma, Arial, sans-serif;
+	min-width: 1280px;
 	background: linear-gradient(to bottom,#128aa7 28px,
 	#5ef0ff 28px,#5ef0ff 29px,#10cde1 30px,#ffffff 175px, 
 	#41c6d3 176px,#1191b1 310px,#0c739f 100%)	
